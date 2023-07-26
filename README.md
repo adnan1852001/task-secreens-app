@@ -1,16 +1,17 @@
-# egypt_store
+# ⚡ Task some screens App (Animation Screens)
+Create and design with animation 4 screens using Flutter.
+>>
+Some features of the app
+<h4>✅Splash Screen</h4>
+<h4>✅Login Screen</h4>
+<h4>✅Sign Screen</h4>
+<h4>✅forgetPassword Screen</h4>
+<h4>✅Fingerprint activation</h4>
+<h4>✅Make animated graphics with codes</h4>
 
-A new Flutter project.
+# Application video link:
+ //
+## A Glimpse of the Application<br>
+<image src="https://github.com/adnan1852001/task-secreens-app/assets/80911322/44bd2c05-5122-4a7f-a789-0c6a655825e8" width=300>
+<image src="https://github.com/adnan1852001/task-secreens-app/assets/80911322/eef6ba11-22e1-4ea2-85e8-84e7d72112cd" width=300>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
